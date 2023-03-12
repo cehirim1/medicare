@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d0fa203e-cfc7-4c60-819c-aa0e51642aa8" name="greenriverdev">
+        <fileTransfer rootFolder="/home/sallengr/public_html/Hostetler_Capstone" accessType="SFTP" host="sallen.greenriverdev.com" port="18765" sshConfigId="b15c2cc7-84f8-463e-a6fe-dd07e742bb89" sshConfig="sallengr@sallen.greenriverdev.com:18765 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
